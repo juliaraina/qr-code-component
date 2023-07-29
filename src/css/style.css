@@ -44,7 +44,6 @@ body {
     width: 100%;
 }
 
-
 .qrcode-description {
     display: flex;
     align-items: center;
@@ -52,7 +51,8 @@ body {
     justify-content: center;
     text-align: center;
 }
-.qrcode-description h2 {
+
+.qrcode-description h1 {
     color: hsl(218, 44%, 22%);
     margin: 20px 0;
 }
